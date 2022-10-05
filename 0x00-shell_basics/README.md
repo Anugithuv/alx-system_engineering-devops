@@ -8,3 +8,4 @@ content in current directory in long format,numerically
 betty from /tmp/ to /tmp/my_first_directory.
 It delete the file betty in the /tmp/my_first_directory
 It delete the directory my_first_directory that is in the /tmp directory
+changes the working directory to the previous one
