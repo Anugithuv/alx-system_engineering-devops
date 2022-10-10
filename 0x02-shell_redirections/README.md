@@ -28,4 +28,4 @@ Based on the the /etc/passwd file
 finds all empty files and directories in the current directory and all sub-directories
 lists all the files with a .gif extension in the current directory and all its sub-directories.Hidden files should be listed.Only regular files (not directories) should be listed,The names of the files should be displayed without their extensions,The files should be sorted by byte values, but case-insensitive,One file name per line,The listing should end with a new line
 
-
+decodes acrostics that use the first letter of each line.
