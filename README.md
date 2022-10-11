@@ -100,3 +100,34 @@ a script that decodes acrostics that use the first letter of each line.
 
 
 Order by number of requests, most active host or IP at the top
+a script that creates an alias.
+
+
+
+Name: ls
+
+Value: rm *
+a script that prints hello user, where user is the current Linux user.
+Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+a script that counts the number of directories in the PATH.
+a script that lists environment variables.
+a script that lists all local variables and environment variables, and function.a script that creates a new local variable.Name: BEST.Value: School.
+a script that creates a new global variable.Name: BEST.Value: School.
+a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+a script that displays the result of BREATH to the power LOVE
+a script that converts a number from base 2 to base 10.
+
+
+
+The number in base 2 is stored in the environment variable BINARY
+prints all possible combinations of two letters, except oo.
+
+
+
+Letters are lower cases, from a to z
+
+One combination per line
+
+The output should be alpha ordered, starting with aa
+a script that prints a number with two decimal places, followed by a new line.
