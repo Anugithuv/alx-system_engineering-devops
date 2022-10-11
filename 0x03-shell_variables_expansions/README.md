@@ -19,3 +19,12 @@ Letters are lower cases, from a to z
 converts a number from base 10 to base 16.
 encodes and decodes text using the rot13 encryption. Assume ASCII.
 prints every other line from the input, starting with the first line.
+adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
+
+
+WATER is in base water
+
+STIR is in base stir.
+
+The result should be in base bestchol
