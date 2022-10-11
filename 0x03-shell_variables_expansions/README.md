@@ -17,3 +17,4 @@ prints all possible combinations of two letters, except oo.
 Letters are lower cases, from a to z
  prints a number with two decimal places, followed by a new line.
 converts a number from base 10 to base 16.
+encodes and decodes text using the rot13 encryption. Assume ASCII.
